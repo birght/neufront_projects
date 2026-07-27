@@ -1,0 +1,2 @@
+import{e as c,ac as r,ap as l,aq as u,ar as a,as as i}from"./index-iTbe-o1D.js";const p=()=>{const e=r();return c(()=>{var o;return((o=l())==null?void 0:o._context)||(e==null?void 0:e.appContext)})},v=()=>{const e=p(),o=[],n=t=>{const s=i(t,e.value);return s&&o.push(s),s};return{init:t=>n(t),notify:n,close:t=>a(t),closeAll:(t=!1)=>u(t?void 0:e.value),closeAllCreatedInThisHook:()=>{o.forEach(t=>a(t))}}};export{v as u};
+//# sourceMappingURL=useToast-BDKj4U1b.js.map
